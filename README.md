@@ -55,7 +55,6 @@ niti-setu-landing-page/
 │   ├── .env.example
 │   └── package.json
 │
-├── .kiro/specs/             # Project specifications
 │   └── niti-setu-landing-page/
 │       ├── requirements.md  # Requirements document
 │       ├── design.md        # Design document
@@ -142,8 +141,6 @@ npm test
 
 ## 📋 Implementation Guide
 
-Follow the tasks in `.kiro/specs/niti-setu-landing-page/tasks.md` for step-by-step implementation:
-
 1. Project setup and configuration
 2. Core utilities and hooks
 3. Theme system
@@ -169,4 +166,3 @@ MIT
 
 ## 👥 Contributing
 
-Please read the requirements and design documents in `.kiro/specs/` before contributing.
