@@ -39,7 +39,7 @@ copy .env.example .env
 ```env
 MONGODB_URI=mongodb://localhost:27017/niti-setu
 # OR for MongoDB Atlas:
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/niti-setu
+MONGODB_URI=<your_mongodb_connection_string>
 
 JWT_SECRET=your-super-secret-key-change-this
 ```
