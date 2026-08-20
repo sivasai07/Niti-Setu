@@ -1,6 +1,6 @@
 # Niti-Setu
 
-Voice-Based Scheme Eligibility Engine - A modern, production-ready landing page built with the MERN stack.
+Voice-Based Scheme Eligibility Engine - A modern, production-ready website built with the MERN stack.
 
 ## 🚀 Tech Stack
 
